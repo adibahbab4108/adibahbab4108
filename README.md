@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently a BSc student
+ 🔭 I’m currently a BSc student at International Islamic University Chittagong
  
  🌱 I’m currently doing competitive programming
 
-⚡ Fun fact **If I could have any superpower, I would take all the modern technology in my brain within a second**
+ ⚡ Fun fact **If I could have any superpower, I would take all the modern technology in my brain within a second** 😇
 
  </div>
  
@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
 </div>
 
 <br/>
@@ -52,7 +52,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Status ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github.com/adibahbab4108/cf-status/blob/main/output/light_card.svg" alt="Codeforces"/>
