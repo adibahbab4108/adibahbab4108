@@ -56,7 +56,3 @@
 <br/><br/>
 <hr/>
 <br/>
-<div align="center">
-<a href="" target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Wait a minute, coming within two minutes' /></a>
-</div>
-<br/>
