@@ -3,9 +3,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adib+Ahbab!;" />
 </h1>
-
-<h3 align="center"> software engineer from Bangladesh</h3>
-
+<div>
+    Cover photo
+</div>
+<h3 align="center">Web Developer </h3>
 <br/>
 
 <div align="center">
@@ -30,12 +31,45 @@
   </a>
 </div>
  <hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools That I Know⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql" /><br>
+    <style>
+        .glass-card {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            width: 320px;
+            text-align: center;
+            color: #fff;
+            font-family: Arial, sans-serif;
+        }
+        small {
+            font-size: 14px;
+            font-weight: bold;
+            display: block;
+            margin-bottom: 8px;
+        }
+    </style>
+    <div class="glass-card">
+        <small>Frontend Technologies</small>
+        <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react" />
+        <br/><br/>
+        <small>Backend Technologies</small>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+        <br/><br/>
+        <small>Database</small>
+        <img src="https://skillicons.dev/icons?i=mongodb" />
+        <br/><br/>
+        <small>Other Languages</small>
+        <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+    </div>
 </div>
+
 <br/>
 <hr/>
 <h2 align="center">⚡ Status ⚡</h2>
