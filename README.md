@@ -3,11 +3,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adib+Ahbab!;" />
 </h1>
-<div>
-    Cover photo
-</div>
-<h3 align="center">Web Developer </h3>
-<br/>
+
+<h1 align="center">Web Developer </h1>
 
 <div align="center">
  
@@ -31,45 +28,24 @@
   </a>
 </div>
  <hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools That I Know⚒️</h2>
+<h1 align="center">⚒️ Languages-Frameworks-Tools That I Know⚒️</h1>
 <br/>
 <div align="center">
-    <style>
-        .glass-card {
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 15px;
-            padding: 20px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-            backdrop-filter: blur(10px);
-            -webkit-backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            width: 320px;
-            text-align: center;
-            color: #fff;
-            font-family: Arial, sans-serif;
-        }
-        small {
-            font-size: 14px;
-            font-weight: bold;
-            display: block;
-            margin-bottom: 8px;
-        }
-    </style>
-    <div class="glass-card">
-        <small>Frontend Technologies</small>
+        <h4 >Frontend Technologies</h4>
         <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react" />
-        <br/><br/>
-        <small>Backend Technologies</small>
+        <br/>
+        <h4>Backend Technologies</h4>
         <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-        <br/><br/>
-        <small>Database</small>
+        <br/>
+        <h4>Database</h4>
         <img src="https://skillicons.dev/icons?i=mongodb" />
-        <br/><br/>
-        <small>Other Languages</small>
+        <br/>
+        <h4>Tools</h4>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+        <br/>
+        <h4>Other Languages</h4>
         <img src="https://skillicons.dev/icons?i=c,cpp,python" />
-    </div>
 </div>
-
 <br/>
 <hr/>
 <h2 align="center">⚡ Status ⚡</h2>
