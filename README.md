@@ -4,17 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adib+Ahbab!;" />
 </h1>
 
-<h1 align="center">Web Developer </h1>
-
-<div align="center">
- 
- 🔭 I’m currently a BSc student at International Islamic University Chittagong
- 
- 🌱 I’m currently doing competitive programming
-
- ⚡ Fun fact **If I could have any superpower, I would take all the modern technology in my brain within a second** 😇
-
- </div>
+<div>
+    <img src=""/>
+</div>
  
 <div align="center"> 
   <a href="mailto:adib.abc2022@gmail.com">
