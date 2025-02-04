@@ -1,40 +1,54 @@
-<div align="center">
-    <style>
-        .glass-card {
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 15px;
-            padding: 20px;
-            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
-            backdrop-filter: blur(10px);
-            -webkit-backdrop-filter: blur(10px);
-            border: 1px solid rgba(255, 255, 255, 0.2);
-            width: 320px;
-            text-align: center;
-            color: #fff;
-            font-family: Arial, sans-serif;
-        }
-        small {
-            font-size: 14px;
-            font-weight: bold;
-            display: block;
-            margin-bottom: 8px;
-        }
-    </style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Your Title</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description"
+    content="Your repo description." />
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css" />
+  <style>
+    .markdown-section {
+      max-width: 700px;
+    }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+  <script>
+    window.$docsify = {
+      subMaxLevel: 1,
+      maxLevel: 3,
+      auto2top: true,
+      repo: 'github-username/repo-name',
+      routerMode: 'history',
+      crossOriginLinks: [
+        'https://twitter.com/your-twitter-line',
+        'https://www.npmjs.com/package/npm-link',
+        'http://www.apache.org/licenses/',
+        'https://opensource.org/licenses/MIT'
+      ],
+      search: 'auto',
+      search: [
+        '/docs/README.md', // => /README.md
+      ],
+      // complete configuration parameters
+      search: {
+        maxAge: 180000,
+        paths: 'auto',
+        placeholder: 'Type to search',
+        noData: 'No Results!',
+        // Headline depth, 1 - 6
+        depth: 3,
+        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+      },
+    };
+    };
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+</body>
 
-    <div class="glass-card">
-        <small>Frontend Technologies</small>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react" />
-        <br/><br/>
-        
-        <small>Backend Technologies</small>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-        <br/><br/>
-        
-        <small>Database</small>
-        <img src="https://skillicons.dev/icons?i=mongodb" />
-        <br/><br/>
-        
-        <small>Other Languages</small>
-        <img src="https://skillicons.dev/icons?i=c,cpp,python" />
-    </div>
-</div>
+</html>
