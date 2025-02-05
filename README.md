@@ -8,17 +8,19 @@
   <img src="https://github.com/adibahbab4108/adibahbab4108/blob/main/cover.png?raw=true" width="100%"/>
 </div>
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 **B.Sc in CSE** graduate from International Islamic University Chittagong  
 💻 Full-stack developer specializing in **MERN Stack**  
-🚀 Passionate about building scalable web applications  
-🌱 Currently exploring **Next.js & TypeScript**  
-📚 Love to learn and share knowledge  
+🔍 **Actively looking for Job/Internship opportunities**  
+🚀 Passionate about **building scalable web applications**  
+🌱 Currently exploring **Next.js **  
+📚 Lifelong learner, always excited to **explore new technologies**  
+🤝 Open to **collaborations, open-source contributions, and networking**   
 
 ---
 
-## 🔗 Connect with Me
+# 🔗 Connect with Me
 
 <div align="center">
   <a href="mailto:adib.abc2022@gmail.com">
@@ -40,7 +42,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack That I Know
 
 ### Frontend Development
  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react" />
@@ -58,7 +60,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adibahbab4108&show_icons=true&theme=radical" />
@@ -71,7 +73,7 @@
 
 ---
 
-## 🏆 Coding Profiles
+# 🏆 Coding Profiles
 
 <div align="center">
   <a href="https://codeforces.com/profile/yourprofile">
