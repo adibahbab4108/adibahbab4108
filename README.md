@@ -1,63 +1,80 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adibahbab4108.adibahbab4108" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Adib+Ahbab!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=38BDD8&center=true&vCenter=true&width=500&lines=Hi+There!+👋;I'm+Adib+Ahbab!;" />
 </h1>
 
-<div>
-    <img src="https://github.com/adibahbab4108/adibahbab4108/blob/main/cover.png?raw=true"/>
+<div align="center">
+  <img src="https://github.com/adibahbab4108/adibahbab4108/blob/main/cover.png?raw=true" width="100%"/>
 </div>
 
-<div>
-    <p>
-🎓 **Pursued B.Sc in Computer Science & Engineering from Inernational Islamic University Chittagong** <br/>
-💻 Currently, specializing in **React, JavaScript, Tailwind CSS**, **Node.js and Mongodb**.  <br/>
-🔥 Passionate about **exploring new technologies**.<br/>   
+## 🚀 About Me
 
-📬 **Let's Connect!**  
-<div align="center"> 
+🎓 **B.Sc in CSE** graduate from International Islamic University Chittagong  
+💻 Full-stack developer specializing in **MERN Stack**  
+🚀 Passionate about building scalable web applications  
+🌱 Currently exploring **Next.js & TypeScript**  
+📚 Love to learn and share knowledge  
+
+---
+
+## 🔗 Connect with Me
+
+<div align="center">
   <a href="mailto:adib.abc2022@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/adib-ahbab4108/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://adibahbab4108.github.io/Adib/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 
-    </p>
-</div>
- <hr/>
-<h1 align="center">⚒️ Languages-Frameworks-Tools That I Know⚒️</h1>
-<br/>
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react" />
+
+### Backend Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+### Tools & Utilities
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+### Other Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+---
+
+## 📈 GitHub Stats
+
 <div align="center">
-        <h4 >Frontend Technologies</h4>
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react" />
-        <br/>
-        <h4>Backend Technologies</h4>
-        <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-        <br/>
-        <h4>Database</h4>
-        <img src="https://skillicons.dev/icons?i=mongodb" />
-        <br/>
-        <h4>Tools</h4>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-        <br/>
-        <h4>Other Languages</h4>
-        <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adibahbab4108&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adibahbab4108&theme=radical" />
 </div>
-<br/>
-<hr/>
-<h2 align="center">⚡ Status ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github.com/adibahbab4108/cf-status/blob/main/output/light_card.svg" alt="Codeforces"/>
-  <img width=390 src="https://github.com/adibahbab4108/cf-status/blob/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces(dark mode" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibahbab4108&layout=compact&theme=radical" />
 </div>
-<br/><br/>
-<hr/>
-<br/>
+
+---
+
+## 🏆 Coding Profiles
+
+<div align="center">
+  <a href="https://codeforces.com/profile/yourprofile">
+   <img width=390 src="https://github.com/adibahbab4108/cf-status/blob/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces(dark mode" />
+  </a>
+</div>
