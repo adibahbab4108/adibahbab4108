@@ -63,12 +63,12 @@
 # 📈 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=adibahbab4108&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adibahbab4108&theme=radical" />
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=adibahbab4108&show_icons=true&theme=radical" />
+  <img width="400" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=adibahbab4108&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibahbab4108&layout=compact&theme=radical" />
+  <img width="800" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibahbab4108&layout=compact&theme=radical" />
 </div>
 
 ---
@@ -76,7 +76,10 @@
 # 🏆 Coding Profiles
 
 <div align="center">
-  <a href="https://codeforces.com/profile/yourprofile">
-   <img width=390 src="https://github.com/adibahbab4108/cf-status/blob/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces(dark mode" />
+  <a href="https://codeforces.com/profile/Adib51">
+    <img width="400" height="200" src="https://github.com/adibahbab4108/cf-status/blob/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces(dark mode)" />
+  </a>
+  <a>
+    <img width="400" height="200" src="https://leetcard.jacoblin.cool/adibahbab4108?animation=true" alt="LeetCode Stats" />
   </a>
 </div>
