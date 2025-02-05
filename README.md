@@ -63,10 +63,10 @@
 # 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adibahbab4108&show_icons=true&theme=ambient_gradient" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adibahbab4108&theme=radical" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=adibahbab4108&show_icons=true&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=adibahbab4108&theme=dark" />
 
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibahbab4108&layout=compact&theme=radical" />
 </div>
