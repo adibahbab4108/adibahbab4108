@@ -63,12 +63,12 @@
 # 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adibahbab4108&show_icons=true&theme=dark" />
-  <img src="https://streak-stats.demolab.com/?user=adibahbab4108&theme=sunset-gradient" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adibahbab4108&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="adibahbab4108's GitHub Stats" />
+ <img src="https://streak-stats.demolab.com?user=adibahbab4108&theme=blueberry&hide_border=true" alt="adibahbab4108's GitHub Stats" />
 
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibahbab4108&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibahbab4108&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="adibahbab4108's GitHub Stats" />
 </div>
 
 ---
