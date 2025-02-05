@@ -7,7 +7,14 @@
 <div>
     <img src="https://github.com/adibahbab4108/adibahbab4108/blob/main/cover.png?raw=true"/>
 </div>
- 
+
+<div>
+    <p>
+🎓 **Pursued B.Sc in Computer Science & Engineering from Inernational Islamic University Chittagong** <br/>
+💻 Currently, specializing in **React, JavaScript, Tailwind CSS**, **Node.js and Mongodb**.  <br/>
+🔥 Passionate about **exploring new technologies**.<br/>   
+
+📬 **Let's Connect!**  
 <div align="center"> 
   <a href="mailto:adib.abc2022@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -18,6 +25,9 @@
   <a href="https://adibahbab4108.github.io/Adib/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+</div>
+
+    </p>
 </div>
  <hr/>
 <h1 align="center">⚒️ Languages-Frameworks-Tools That I Know⚒️</h1>
