@@ -23,7 +23,7 @@
 # 🔗 Connect with Me
 
 <div align="center">
-  <a href="mailto:adib.abc2022@gmail.com">
+  <a href="mailto:adib.ahbab00@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/adib-ahbab4108/" target="_blank">
@@ -45,13 +45,13 @@
 # 🛠️ Tech Stack That I Know
 
 ### Frontend Development
- <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react" />
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,bootstrap,react" />
 
 ### Backend Development
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb,mongoose, postgres" />
 
 ### Tools & Utilities
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
