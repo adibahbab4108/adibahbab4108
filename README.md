@@ -8,19 +8,21 @@
   <img src="https://github.com/adibahbab4108/adibahbab4108/blob/main/cover.png?raw=true" width="100%"/>
 </div>
 
-# 🚀 About Me
+---
 
-🎓 **B.Sc in CSE** graduate from International Islamic University Chittagong  
-💻 Full-stack developer specializing in **MERN Stack**  
-🔍 **Actively looking for Job/Internship opportunities**  
+## 🚀 About Me  
+
+🎓 **B.Sc in CSE** graduate from *International Islamic University Chittagong*  
+💻 Full-stack developer specializing in the **MERN Stack**  
+🔍 Currently **open to Job / Internship opportunities**  
 🚀 Passionate about **building scalable web applications**  
-🌱 Currently exploring **Next.js **  
-📚 Lifelong learner, always excited to **explore new technologies**  
-🤝 Open to **collaborations, open-source contributions, and networking**   
+🌱 Exploring **Next.js, Prisma, and Backend Architecture Patterns**  
+📚 Lifelong learner & always curious about **modern web technologies**  
+🤝 Open to **collaborations, open-source contributions, and networking**  
 
 ---
 
-# 🔗 Connect with Me
+## 🔗 Connect with Me  
 
 <div align="center">
   <a href="mailto:adib.ahbab00@gmail.com">
@@ -42,38 +44,73 @@
 
 ---
 
-# 🛠️ Tech Stack That I Know
+## 🛠️ Tech Stack
 
-### Frontend Development
- <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,tailwind,bootstrap,react" />
-
-### Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mongoose, postgres" />
-
-### Tools & Utilities
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-### Other Languages
-<img src="https://skillicons.dev/icons?i=c,cpp,python" />
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adibahbab4108&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="adibahbab4108's GitHub Stats" />
- <img src="https://streak-stats.demolab.com?user=adibahbab4108&theme=blueberry&hide_border=true" alt="adibahbab4108's GitHub Stats" />
-
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibahbab4108&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="adibahbab4108's GitHub Stats" />
-</div>
+### 💻 Frontend Development  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ---
 
-# 🏆 Coding Profiles
+### ⚙️ Backend Development  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3178C6?style=for-the-badge&logoColor=white)
+
+---
+
+### 🗄️ Databases & ORMs  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+---
+
+### 🧰 Tools & Utilities  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![SSLCommerz](https://img.shields.io/badge/SSLCommerz-0A84FF?style=for-the-badge&logoColor=white)
+
+---
+
+### 🧠 Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+## 📈 GitHub Stats  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adibahbab4108&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="Adib's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=adibahbab4108&theme=blueberry&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibahbab4108&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 Coding Profiles  
 
 <div align="center">
   <a href="https://codeforces.com/profile/Adib51">
@@ -83,3 +120,7 @@
     <img src="https://leetcard.jacoblin.cool/adibahbab4108?animation=true" alt="LeetCode Stats" />
   </a>
 </div>
+
+---
+
+⭐ **"Code, Learn, Build, Repeat!"** — Adib Ahbab
