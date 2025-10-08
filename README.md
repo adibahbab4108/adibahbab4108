@@ -13,7 +13,7 @@
 ## 🚀 About Me  
 
 🎓 **B.Sc in CSE** graduate from *International Islamic University Chittagong*  
-💻 Full-stack developer specializing in the **MERN Stack**  
+💻 **Full-Stack Developer** focused on modern JavaScript ecosystems — from frontend interfaces to robust backend systems
 🔍 Currently **open to Job / Internship opportunities**  
 🚀 Passionate about **building scalable web applications**  
 🌱 Exploring **Next.js, Prisma, and Backend Architecture Patterns**  
@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/adib-ahbab4108/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://adibahbab4108.github.io/Adib/" target="_blank">
+  <a href="https://adib-ahbab0.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/bigg.bangg.906" target="_blank">
@@ -84,6 +84,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![SSLCommerz](https://img.shields.io/badge/SSLCommerz-0A84FF?style=for-the-badge&logoColor=white)
 
