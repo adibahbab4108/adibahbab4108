@@ -14,9 +14,9 @@
 
 🎓 **B.Sc in CSE** graduate from *International Islamic University Chittagong*  
 💻 **Full-Stack Developer** focused on modern JavaScript ecosystems — from frontend interfaces to robust backend systems
-🔍 Currently **open to Job / Internship opportunities**  
+🔍 Currently **Open to full-time job opportunities**  
 🚀 Passionate about **building scalable web applications**  
-🌱 Exploring **Next.js, Prisma, and Backend Architecture Patterns**  
+🌱 Currently exploring **Next.js**  
 📚 Lifelong learner & always curious about **modern web technologies**  
 🤝 Open to **collaborations, open-source contributions, and networking**  
 
@@ -37,9 +37,9 @@
   <a href="https://www.facebook.com/bigg.bangg.906" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://twitter.com/adibahbab4108" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  <a href="https://wa.me/8801927147085" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
 </div>
 
 ---
@@ -63,8 +63,7 @@
 ### ⚙️ Backend Development  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3178C6?style=for-the-badge&logoColor=white)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-005571?style=for-the-badge&logo=api&logoColor=white)
 
 ---
 
@@ -85,6 +84,12 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34A853?style=for-the-badge&logo=passport&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3178C6?style=for-the-badge&logoColor=white)
+![PDFKit](https://img.shields.io/badge/PDFKit-333333?style=for-the-badge&logo=pdf&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-009688?style=for-the-badge&logo=maildotru&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![SSLCommerz](https://img.shields.io/badge/SSLCommerz-0A84FF?style=for-the-badge&logoColor=white)
 
