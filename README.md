@@ -13,7 +13,7 @@
 ## 🚀 About Me  
 
 🎓 **B.Sc in CSE** graduate from *International Islamic University Chittagong*  
-💻 **Full-Stack Developer** focused on modern JavaScript ecosystems — from *frontend interfaces* to robust *backend systems*
+💻 **Full-Stack Developer** focused on modern JavaScript ecosystems from **frontend interfaces** to robust **backend systems**
 🔍 Currently **Open to full-time job opportunities**  
 🚀 Passionate about **building scalable web applications**  
 🌱 Currently exploring **Next.js**  
