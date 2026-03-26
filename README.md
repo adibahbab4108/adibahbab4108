@@ -5,20 +5,31 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/adibahbab4108/adibahbab4108/blob/main/cover.png?raw=true" width="100%"/>
+  <img src="https://github.com/adibahbab4108/adibahbab4108/blob/main/image.png?raw=true" width="100%"/>
 </div>
 
 ---
 
 ## 🚀 About Me  
 
-🎓 **B.Sc in CSE** graduate from *International Islamic University Chittagong*  
-💻 **Full-Stack Developer** focused on modern JavaScript ecosystems from **frontend interfaces** to robust **backend systems**
-🔍 Currently **Open to full-time job opportunities**  
-🚀 Passionate about **building scalable web applications**  
-🌱 Currently exploring **Next.js**  
-📚 Lifelong learner & always curious about **modern web technologies**  
-🤝 Open to **collaborations, open-source contributions, and networking**  
+**B.Sc** in Computer Science & Engineering from International Islamic University Chittagong.
+
+Full-Stack Developer working across the JavaScript ecosystem — from polished frontend
+interfaces to scalable backend systems.
+
+Currently open to full-time opportunities and actively exploring deeper patterns in
+distributed systems, real-time architecture, and modern deployment workflows.
+
+- Building with **React, Next.js, TypeScript** on the frontend
+- **Node.js, Express, Socket.io, RabbitMQ, and REST APIs** on the backend
+- Databases across the spectrum — **PostgreSQL, MongoDB, Redis — with Prisma and Mongoose**
+- **Auth with JWT, file handling via MinIO and Multer, payments through Stripe or SSLCommerz**
+- Containerized with **Docker**, deployed via **Vercel** and **Dokploy**
+- Background jobs and messaging with **RabbitMQ** and **Nodemailer**
+- Comfortable with **Supabase, Zod, ESLint, Postman, Bruno and Ngrok** in daily workflow
+
+Open to collaborations, open source contributions, and straightforward conversations
+about building things that actually work.
 
 ---
 
