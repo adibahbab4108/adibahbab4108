@@ -1,8 +1,22 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=adibahbab4108.adibahbab4108" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=38BDD8&center=true&vCenter=true&width=500&lines=Hi+There!+👋;I'm+Adib+Ahbab!;" />
-</h1>
+<!-- TYPOING ANIMATED HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=28&duration=2500&pause=1200&color=3ED2FEFF&center=true&vCenter=true&repeat=true&width=700&lines=Hi%2C+I'm+Md+Adib+Ahbab;Full-stack+JavaScript%2FTypeScript+Engineer;Scalable+platform+%7C+AI+%7C+Modern+UX" alt="Typing Animation"/>
+</p>
+
+<!-- STATUS BADGES -->
+<p align="center">
+  <a href="https://github.com/adibahbab4108">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/adibahbab4108?label=Followers&style=flat-square&color=3F839A&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/adibahbab4108">
+    <img alt="Profile views" src="https://komarev.com/ghpvc/?username=adibahbab4108&color=3F839A&style=flat-square" />
+  </a>
+</p>
+
+<!-- TAGLINE + INTRO -->
+<h2 align="center"><b>Building production-grade platforms with AI, scalable backends, and beautiful UX</b></h2>
+<p align="center">Minimalist by design, maximalist by impact.</p>
 
 <div align="center">
   <img src="https://github.com/adibahbab4108/adibahbab4108/blob/main/image.png?raw=true" width="100%"/>
@@ -10,7 +24,7 @@
 
 ---
 
-## 🚀 About Me  
+## 🌌 About Me
 
 **B.Sc** in Computer Science & Engineering from International Islamic University Chittagong.
 
@@ -42,7 +56,7 @@ about building things that actually work.
   <a href="https://www.linkedin.com/in/adib-ahbab4108/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://adib-ahbab0.netlify.app/" target="_blank">
+  <a href="https://mr-adib.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/bigg.bangg.906" target="_blank">
