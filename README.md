@@ -131,13 +131,13 @@ about building things that actually work.
 ## 📈 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adibahbab4108&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="Adib's GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=adibahbab4108&theme=blueberry&show_icons=true&hide_border=true&count_private=true" alt="Adib's GitHub Stats" /> -->
   <img src="https://streak-stats.demolab.com?user=adibahbab4108&theme=blueberry&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibahbab4108&theme=blueberry&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
-</div>
+</div> -->
 
 ---
 
