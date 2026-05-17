@@ -39,8 +39,6 @@ distributed systems, real-time architecture, and modern deployment workflows.
 - Databases across the spectrum — **PostgreSQL, MongoDB, Redis — with Prisma and Mongoose**
 - **Auth with JWT, file handling via MinIO and Multer, payments through Stripe or SSLCommerz**
 - Containerized with **Docker**, deployed via **Vercel** and **Dokploy**
-- Background jobs and messaging with **RabbitMQ** and **Nodemailer**
-- Comfortable with **Supabase, Zod, ESLint, Postman, Bruno and Ngrok** in daily workflow
 
 Open to collaborations, open source contributions, and straightforward conversations
 about building things that actually work.
