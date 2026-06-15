@@ -35,10 +35,10 @@ Currently open to full-time opportunities and actively exploring deeper patterns
 distributed systems, real-time architecture, and modern deployment workflows.
 
 - Building with **React, Next.js, TypeScript** on the frontend
-- **Node.js, Express, Socket.io, RabbitMQ, and REST APIs** on the backend
-- Databases across the spectrum — **PostgreSQL, MongoDB, Redis — with Prisma and Mongoose**
-- **Auth with JWT, file handling via MinIO and Multer, payments through Stripe or SSLCommerz**
-- Containerized with **Docker**, deployed via **Vercel** and **Dokploy**
+- **Node.js, Express.js, REST APIs, and scalable modular architectures**  on the backend
+- Working with **PostgreSQL, MongoDB, Redis, leveraging Prisma and Mongoose** for efficient data modeling
+- Implementing secure authentication with **JWT, role-based access control (RBAC), and third-party API integrations**
+- Managing deployment and infrastructure using **Docker, Dokploy, Hostinger VPS, and Vercel, with Cloudflare for DNS, security, caching, and Turnstile CAPTCHA protection**
 
 Open to collaborations, open source contributions, and straightforward conversations
 about building things that actually work.
